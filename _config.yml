@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0.3191489
+color:
+  saturation: 0.9081172
+  lightness: 0.7400877
+  brandStrength: 0.8085107
+  brandColors:
+    - '#1F1F1F'
+    - '#707070'
+    - '#FFFFFF'
+    - '#B6B6B6'
+    - '#DADADA'
+  rhythmicContrast: 0.6512204
+name: RiordanHajekPhotography
